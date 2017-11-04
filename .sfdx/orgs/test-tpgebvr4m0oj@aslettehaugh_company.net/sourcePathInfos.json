@@ -1,0 +1,101 @@
+[
+    [
+        "/Users/aslettehaugh/df17/NewV2/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/aslettehaugh/df17/NewV2/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1509801904000,
+            "changeTime": 1509801904000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/aslettehaugh/df17/NewV2/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/aslettehaugh/df17/NewV2/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1509801904000,
+            "changeTime": 1509801904000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aslettehaugh/df17/NewV2/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aslettehaugh/df17/NewV2/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1509802318000,
+            "changeTime": 1509802318000,
+            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665"
+        }
+    ],
+    [
+        "/Users/aslettehaugh/df17/NewV2/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/aslettehaugh/df17/NewV2/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1509801904000,
+            "changeTime": 1509801904000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aslettehaugh/df17/NewV2",
+        {
+            "state": "n",
+            "sourcePath": "/Users/aslettehaugh/df17/NewV2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1509801928000,
+            "changeTime": 1509801928000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/aslettehaugh/df17/NewV2/force-app/main/default/permissionsets/ParksMgrPerm.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aslettehaugh/df17/NewV2/force-app/main/default/permissionsets/ParksMgrPerm.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1509802318000,
+            "changeTime": 1509802318000,
+            "contentHash": "a87510d5f2ee2a427084d12ffeed224b7192c9a6"
+        }
+    ],
+    [
+        "/Users/aslettehaugh/df17/NewV2/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/aslettehaugh/df17/NewV2/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1509802318000,
+            "changeTime": 1509802318000,
+            "contentHash": "b6761633b091f661b3587a3d9d84b317f2dd9254"
+        }
+    ]
+]
